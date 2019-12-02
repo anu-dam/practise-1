@@ -6,7 +6,7 @@
 .tab-panels ul li {
   list-style-type: none;
   display: inline-block;
-  background: lightblue;
+  background: #999;
   margin: 0;
   padding: 3px 10px;
   border-radius: 10px 10px 0 0;
@@ -26,7 +26,7 @@
 }
 
 .tab-panels .panel {
-    display: none;
+  display: none;
   background: lightgreen;
   padding: 30px;
   border-radius: 0 0 10px 10px;
